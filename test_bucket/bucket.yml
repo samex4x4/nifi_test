@@ -1,6 +1,0 @@
-flows:
-  d1280795-af33-44bc-9d8c-9da752892926: {ver: 1, file: test_flow_group.snapshot, comments: v1,
-    author: jill@innotech.me, created: 1618308486069, flowName: test_flow_group, flowDesc: demo
-      nifi-registry}
-layoutVer: 1
-bucketId: 6b23f24f-cada-4c93-8402-7ce7c4027cc4
