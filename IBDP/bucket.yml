@@ -1,0 +1,6 @@
+flows:
+  2c8e0127-ff99-4d03-8a22-c3bafd37b6e7: {ver: 1, file: Warehouse_ETL.snapshot, comments: '',
+    author: ashleyc@innotech.me, created: 1618308944780, flowName: Warehouse_ETL,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: 96482312-dd9d-4cce-93f8-8b39ccbe9a6d
