@@ -126,7 +126,7 @@
             "name" : "LogAttribute",
             "type" : "PROCESSOR"
           },
-          "flowFileExpiration" : "0 sec",
+          "flowFileExpiration" : "3600 sec",
           "groupIdentifier" : "d264b7bd-7ea5-3f8a-9610-9199d71c3cba",
           "identifier" : "f7dded2d-5c42-3a85-9599-536107e3bc6c",
           "labelIndex" : 1,

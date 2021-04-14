@@ -1,10 +1,10 @@
 flows:
   f2be5394-2351-4e87-896b-056f1aad03dc:
-    ver: 1
+    ver: 2
     file: QA__-_賽事資訊整合.snapshot
-    comments: First Commited.
+    comments: Change failed flowfiles expired time to 3600s.
     author: rylee@innotech.me
-    created: 1618395571195
+    created: 1618395815440
     flowName: !!binary |-
       UUEgCC0g6LO95LqL6LOH6KiK5pW05ZCI
     flowDesc: !!binary |-
